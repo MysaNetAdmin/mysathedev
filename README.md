@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Samy, a french developer !
-Currently I'm working at France Ministry of Justice Teacher !
+Currently I'm working at France Ministry of Justice as a Software Developer !
 
 I'm currently learning more about the JSP framework by myself and trying to achieve more certifications this year!
 
