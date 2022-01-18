@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am Samy, a young french student @EPITA and a developer !
-Currently I'm working with @EpiMac as a Swift Teacher and IT Manager, to provide Swift workshops to all IONIS group students & organize discovery days of the engineering professions to young high school students.
+I am Samy, a french developer !
+Currently I'm working at France Ministry of Justice Teacher !
 
-I'm currently learning more about the SwiftUI framework and C# by myself and with the courses @EPITA !
+I'm currently learning more about the JSP framework by myself and trying to achieve more certifications this year!
 
 Feel free to message me or email me !
 
