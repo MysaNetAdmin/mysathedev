@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am Samy, a french developer !
-Currently I'm working at France Ministry of Justice as a Software Developer !
+I am Samy, a french student at @EPITA in the 4th year in the TCOM major !
+Currently I'm a laboratory manager, managing a team of assistants & an infrastructure. The laboratory goal is to give a technical side to our theoritical cursus for all students of our major.
 
-I'm currently learning more about the JSP framework by myself and trying to achieve more certifications this year!
+I'm currently learning more about networks and network security by myself and trying to obtain Cisco CCNA certification this year !
 
 Feel free to message me or email me !
 
